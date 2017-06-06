@@ -1,2 +1,4 @@
 # world-underwater
-new
+
+Ahoy!
+Machine-learning is the way forward!
